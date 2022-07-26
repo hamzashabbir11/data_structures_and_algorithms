@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-### Tree BFS Level Order Traveral 
+### 1. Tree BFS Level Order Traveral 
 
 ```mermaid
 graph TD;

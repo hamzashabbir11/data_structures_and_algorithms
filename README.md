@@ -2,7 +2,7 @@
 
 | Data Structures | 
 | -----|
-| Stack |
+| Stack ⤴️|
 | Ques|
 | Linked List|
 | Trees **(BFS & DFS)**|

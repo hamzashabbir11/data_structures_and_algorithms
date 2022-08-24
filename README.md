@@ -1,5 +1,14 @@
 # Data Structures and Algorithms
 
+| Data Structures | 
+| -----|
+| Stack |
+| Ques|
+| Linked List|
+| Trees **(BFS & DFS)**|
+| Heap|
+| [Hash Map](https://jomaclass.com)|
+
 ### 1. Tree BFS Level Order Traveral 
 
 ```mermaid
